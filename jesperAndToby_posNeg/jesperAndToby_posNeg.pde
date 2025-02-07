@@ -2,6 +2,8 @@
 
 int randomNum; // variable to determing random number
 
+// is this right?
+
 void setup() {
   frameRate(2); //2 println per second
 }
